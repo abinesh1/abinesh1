@@ -11,8 +11,6 @@
 
 <p align="center">
     <img src="https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg">
-    <img src="https://forthebadge.com/images/badges/built-with-love.svg">
-    <img src="https://forthebadge.com/images/badges/built-with-swag.svg">
     <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg">
     <img src = "https://forthebadge.com/images/badges/it-works-why.svg">
     <img src="https://forthebadge.com/images/badges/made-with-python.svg">
@@ -43,8 +41,4 @@ Still Working on my code contribution skills🥲
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=abinesh1" alt="abinesh1" />
-</p>
-
-<p align="center">
-    <img src="./github-snake.svg">
 </p>
